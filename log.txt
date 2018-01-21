@@ -1,0 +1,54 @@
+2018-01-20 23:02:08 - Fetching details for year : 2005
+Done
+2018-01-20 23:02:15 - Fetching details for year : 2006
+Done
+2018-01-20 23:02:23 - Fetching details for year : 2007
+Done
+2018-01-20 23:02:30 - Fetching details for year : 2008
+Done
+2018-01-20 23:02:38 - Fetching details for year : 2009
+Done
+2018-01-20 23:05:33 - Fetching details for year : 2010
+Done
+2018-01-20 23:08:35 - Fetching details for year : 2011
+Done
+2018-01-20 23:11:58 - Fetching details for year : 2012
+Done
+2018-01-20 23:15:32 - Fetching details for year : 2013
+Done
+2018-01-20 23:19:01 - Fetching details for year : 2014
+Done
+2018-01-20 23:22:49 - Fetching details for year : 2015
+Done
+2018-01-20 23:25:46 - Fetching details for year : 2016
+page -> 1
+page -> 2
+page -> 3
+page -> 4
+page -> 5
+page -> 6
+page -> 7
+page -> 8
+page -> 9
+page -> 10
+page -> 11
+page -> 12
+page -> 13
+page -> 14
+Done
+2018-01-20 23:39:51 - Fetching details for year : 2017
+page -> 1
+page -> 2
+page -> 3
+page -> 4
+page -> 5
+page -> 6
+page -> 7
+page -> 8
+page -> 9
+page -> 10
+page -> 11
+page -> 12
+page -> 13
+page -> 14
+Done
